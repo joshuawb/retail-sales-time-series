@@ -1,4 +1,5 @@
 # Time Series Project Plan
+## Comparing Time Series Forecasting Methods on Retail Demand Data
 ## 1. Problem framing
 
 “Forecast daily demand for retail products”
